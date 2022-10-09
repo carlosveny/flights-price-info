@@ -21,7 +21,11 @@ configParser.read(configFilePath)
 response = None
 if (MOCKED):
     print('Mocking request...\n')
-    f = open('mocked-request.json')
+    try:
+        f = open('mocked-request.json')
+    except:
+        print('ERROR: file "mocked-request.json" not found')
+        exit()
     response = json.load(f)
 
 # Get request to FlightLabs API (MOCKED = False)
@@ -37,6 +41,9 @@ else:
     }
     api_result = requests.get('https://app.goflightlabs.com/search-best-flights', params)
     response = api_result.json()
+    if not response['success']:
+        print('ERROR: Invalid API Key')
+        exit()
 
 # Format response
 print('Cheapest flights:')
