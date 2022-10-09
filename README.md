@@ -23,3 +23,6 @@ Los parámetros se pueden modificar según se necesiten
 | ADULTS          | 1             | Número de pasajeros adultos |
 | CURRENCY        | 'EUR'         | Moneda, según la ISO 4217 |
 | MOCKED          | False         | Si es *True* la petición no se realiza a la API si no que se mockea con el archivo correspondiente. Sirve para hacer pruebas sin gastar las peticiones de la API |
+
+### Tratamiento de los datos
+Una vez ejecutado el programa se puede usar Excel para tratar los datos. Para ello, importar el CSV y aplicar la separación mediante **comas**.
