@@ -1,0 +1,1123 @@
+{
+  "success": true,
+  "data": {
+      "buckets": [
+          {
+              "id": "Best",
+              "name": "Best",
+              "items": [
+                  {
+                      "id": "15434-2211022155--31915-0-13870-2211022320",
+                      "price": {
+                          "raw": 15,
+                          "formatted": "15 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022155--31915-0-13870-2211022320",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T21:55:00",
+                              "arrival": "2022-11-02T23:20:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022155-2211022320--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T21:55:00",
+                                      "arrival": "2022-11-02T23:20:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "2064",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 9.98502,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022155--31915-0-13870-2211022320?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211022110--32680-0-13870-2211022235",
+                      "price": {
+                          "raw": 18,
+                          "formatted": "18 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022110--32680-0-13870-2211022235",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T21:10:00",
+                              "arrival": "2022-11-02T22:35:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -32680,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                          "name": "Air Europa"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022110-2211022235--32680",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T21:10:00",
+                                      "arrival": "2022-11-02T22:35:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "6096",
+                                      "marketingCarrier": {
+                                          "id": -32680,
+                                          "name": "Air Europa",
+                                          "alternateId": "UX",
+                                          "allianceId": -31998
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -32680,
+                                          "name": "Air Europa",
+                                          "alternateId": "UX",
+                                          "allianceId": -31998
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 8.56686,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022110--32680-0-13870-2211022235?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211022025--31915-0-13870-2211022150",
+                      "price": {
+                          "raw": 20,
+                          "formatted": "20 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022025--31915-0-13870-2211022150",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T20:25:00",
+                              "arrival": "2022-11-02T21:50:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022025-2211022150--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T20:25:00",
+                                      "arrival": "2022-11-02T21:50:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "5431",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 7.63318,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022025--31915-0-13870-2211022150?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  }
+              ]
+          },
+          {
+              "id": "Fastest",
+              "name": "Fastest",
+              "items": [
+                  {
+                      "id": "15434-2211021745--32221-0-13870-2211021910",
+                      "price": {
+                          "raw": 114,
+                          "formatted": "114 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211021745--32221-0-13870-2211021910",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T17:45:00",
+                              "arrival": "2022-11-02T19:10:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -32221,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                          "name": "Iberia Express"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211021745-2211021910--32221",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T17:45:00",
+                                      "arrival": "2022-11-02T19:10:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "3925",
+                                      "marketingCarrier": {
+                                          "id": -32221,
+                                          "name": "Iberia Express",
+                                          "alternateId": "I2",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -32221,
+                                          "name": "Iberia Express",
+                                          "alternateId": "I2",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 1.305,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211021745--32221-0-13870-2211021910?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211022025--31915-0-13870-2211022150",
+                      "price": {
+                          "raw": 20,
+                          "formatted": "20 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022025--31915-0-13870-2211022150",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T20:25:00",
+                              "arrival": "2022-11-02T21:50:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022025-2211022150--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T20:25:00",
+                                      "arrival": "2022-11-02T21:50:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "5431",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 7.63318,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022025--31915-0-13870-2211022150?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211021520--31915-0-13870-2211021645",
+                      "price": {
+                          "raw": 26,
+                          "formatted": "26 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211021520--31915-0-13870-2211021645",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T15:20:00",
+                              "arrival": "2022-11-02T16:45:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211021520-2211021645--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T15:20:00",
+                                      "arrival": "2022-11-02T16:45:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "2776",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 5.89933,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211021520--31915-0-13870-2211021645?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  }
+              ]
+          },
+          {
+              "id": "Cheapest",
+              "name": "Cheapest",
+              "items": [
+                  {
+                      "id": "15434-2211022155--31915-0-13870-2211022320",
+                      "price": {
+                          "raw": 15,
+                          "formatted": "15 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022155--31915-0-13870-2211022320",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T21:55:00",
+                              "arrival": "2022-11-02T23:20:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022155-2211022320--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T21:55:00",
+                                      "arrival": "2022-11-02T23:20:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "2064",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 9.98502,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022155--31915-0-13870-2211022320?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211022110--32680-0-13870-2211022235",
+                      "price": {
+                          "raw": 18,
+                          "formatted": "18 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022110--32680-0-13870-2211022235",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T21:10:00",
+                              "arrival": "2022-11-02T22:35:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -32680,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                          "name": "Air Europa"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022110-2211022235--32680",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T21:10:00",
+                                      "arrival": "2022-11-02T22:35:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "6096",
+                                      "marketingCarrier": {
+                                          "id": -32680,
+                                          "name": "Air Europa",
+                                          "alternateId": "UX",
+                                          "allianceId": -31998
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -32680,
+                                          "name": "Air Europa",
+                                          "alternateId": "UX",
+                                          "allianceId": -31998
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 8.56686,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022110--32680-0-13870-2211022235?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211022025--31915-0-13870-2211022150",
+                      "price": {
+                          "raw": 20,
+                          "formatted": "20 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022025--31915-0-13870-2211022150",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T20:25:00",
+                              "arrival": "2022-11-02T21:50:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022025-2211022150--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T20:25:00",
+                                      "arrival": "2022-11-02T21:50:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "5431",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 7.63318,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022025--31915-0-13870-2211022150?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  }
+              ]
+          },
+          {
+              "id": "Direct",
+              "name": "Direct",
+              "items": [
+                  {
+                      "id": "15434-2211022155--31915-0-13870-2211022320",
+                      "price": {
+                          "raw": 15,
+                          "formatted": "15 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022155--31915-0-13870-2211022320",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T21:55:00",
+                              "arrival": "2022-11-02T23:20:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022155-2211022320--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T21:55:00",
+                                      "arrival": "2022-11-02T23:20:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "2064",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 9.98502,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022155--31915-0-13870-2211022320?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211022110--32680-0-13870-2211022235",
+                      "price": {
+                          "raw": 18,
+                          "formatted": "18 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022110--32680-0-13870-2211022235",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T21:10:00",
+                              "arrival": "2022-11-02T22:35:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -32680,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                          "name": "Air Europa"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022110-2211022235--32680",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T21:10:00",
+                                      "arrival": "2022-11-02T22:35:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "6096",
+                                      "marketingCarrier": {
+                                          "id": -32680,
+                                          "name": "Air Europa",
+                                          "alternateId": "UX",
+                                          "allianceId": -31998
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -32680,
+                                          "name": "Air Europa",
+                                          "alternateId": "UX",
+                                          "allianceId": -31998
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 8.56686,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022110--32680-0-13870-2211022235?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  },
+                  {
+                      "id": "15434-2211022025--31915-0-13870-2211022150",
+                      "price": {
+                          "raw": 20,
+                          "formatted": "20 €"
+                      },
+                      "legs": [
+                          {
+                              "id": "15434-2211022025--31915-0-13870-2211022150",
+                              "origin": {
+                                  "id": "PMI",
+                                  "name": "Palma - Majorca",
+                                  "displayCode": "PMI",
+                                  "city": "Palma",
+                                  "isHighlighted": false
+                              },
+                              "destination": {
+                                  "id": "MAD",
+                                  "name": "Madrid",
+                                  "displayCode": "MAD",
+                                  "city": "Madrid",
+                                  "isHighlighted": false
+                              },
+                              "durationInMinutes": 85,
+                              "stopCount": 0,
+                              "isSmallestStops": true,
+                              "departure": "2022-11-02T20:25:00",
+                              "arrival": "2022-11-02T21:50:00",
+                              "timeDeltaInDays": 0,
+                              "carriers": {
+                                  "marketing": [
+                                      {
+                                          "id": -31915,
+                                          "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                          "name": "Ryanair"
+                                      }
+                                  ],
+                                  "operationType": "fully_operated"
+                              },
+                              "segments": [
+                                  {
+                                      "id": "15434-13870-2211022025-2211022150--31915",
+                                      "origin": {
+                                          "flightPlaceId": "PMI",
+                                          "parent": {
+                                              "flightPlaceId": "PALM",
+                                              "name": "Palma",
+                                              "type": "City"
+                                          },
+                                          "name": "Palma - Majorca",
+                                          "type": "Airport"
+                                      },
+                                      "destination": {
+                                          "flightPlaceId": "MAD",
+                                          "parent": {
+                                              "flightPlaceId": "MADR",
+                                              "name": "Madrid",
+                                              "type": "City"
+                                          },
+                                          "name": "Madrid",
+                                          "type": "Airport"
+                                      },
+                                      "departure": "2022-11-02T20:25:00",
+                                      "arrival": "2022-11-02T21:50:00",
+                                      "durationInMinutes": 85,
+                                      "flightNumber": "5431",
+                                      "marketingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      },
+                                      "operatingCarrier": {
+                                          "id": -31915,
+                                          "name": "Ryanair",
+                                          "alternateId": "FR",
+                                          "allianceId": 0
+                                      }
+                                  }
+                              ]
+                          }
+                      ],
+                      "isSelfTransfer": false,
+                      "tags": [
+                          "shortest"
+                      ],
+                      "isMashUp": false,
+                      "hasFlexibleOptions": false,
+                      "score": 7.63318,
+                      "deeplink": "https://www.skyscanner.net/transport/flights/pmi/mad/221102/config/15434-2211022025--31915-0-13870-2211022150?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544850&originentityid=27545988&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                  }
+              ]
+          }
+      ]
+  }
+}
