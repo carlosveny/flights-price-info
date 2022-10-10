@@ -12,7 +12,7 @@ Todo el programa funciona sobre Python 3.8.7 por lo que es necesario que esté i
 5. Instalar el módulo 'requests', si no se tiene ya instalado, con el comando `pip install requests `
 6. Ejecutar el programa `python main.py`
 
-### Parámetros
+## Parámetros
 Los parámetros se pueden modificar según se necesiten
 
 | Parámetro       | Valor inicial | Descripción                                               |
@@ -24,5 +24,5 @@ Los parámetros se pueden modificar según se necesiten
 | CURRENCY        | 'EUR'         | Moneda, según la ISO 4217 |
 | MOCKED          | False         | Si es *True* la petición no se realiza a la API si no que se mockea con el archivo correspondiente. Sirve para hacer pruebas sin gastar las peticiones de la API |
 
-### Tratamiento de los datos
+## Tratamiento de los datos
 Una vez ejecutado el programa se puede usar Excel para tratar los datos. Para ello, importar el CSV y aplicar la separación mediante **comas**.
