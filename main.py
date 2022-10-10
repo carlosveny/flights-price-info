@@ -57,7 +57,7 @@ for idx, f in enumerate(cheapestFlights['items']):
         f['legs'][0]['departure'],
         f['legs'][0]['arrival'],
     ]
-    print(str(idx+1) + '. ' + str(flightData[1]) + '€ | ' + flightData[2] + ', ' + flightData[3] + ', ' + flightData[4])
+    print(f'{str(idx+1)}. {str(flightData[1])}€ | {flightData[2]}, {flightData[3]}, {flightData[4]}')
     flights.append(flightData)
 
 # Save to csv file
