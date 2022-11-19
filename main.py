@@ -7,7 +7,7 @@ from datetime import datetime
 # Global values
 ORIGIN = 'PMI' # IATA Code
 DESTINATION = 'MAD' # IATA Code
-DEPARTURE_DATE = '2022-11-02' # yyyy-mm-dd format
+DEPARTURE_DATE = '2022-11-25' # yyyy-mm-dd format
 ADULTS = 1
 CURRENCY = 'EUR' # Currency code (ISO 4217)
 MOCKED = False # Mocked or actual request
@@ -44,6 +44,11 @@ else:
     if not response['success']:
         print('ERROR: Invalid API Key')
         exit()
+
+# Error
+if ('error' in response['data']):
+    print(f'Error: {response["data"]["message"]}\n')
+    exit()
 
 # Format response
 print('Cheapest flights:')
